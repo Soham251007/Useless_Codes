@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
+// Made by Soham Singh
 
 int main() {
   double a, b;
@@ -14,3 +15,4 @@ int main() {
   cout<<"Angle measure in radians is "<<b<<endl;
   
 }
+// Copy mat karna BKL
