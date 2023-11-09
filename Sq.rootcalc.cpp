@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
+// Made by Soham Singh
 
 int main() {
   double a, b;
@@ -15,3 +16,4 @@ int main() {
   
   return 0;
 }
+// Copy mat karna BKL
